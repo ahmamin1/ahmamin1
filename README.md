@@ -1,8 +1,9 @@
-### Hi there 👋
+<div class="banner-text"><h1>Hi , I'm Ahmed Amin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60rem" alt="wave" class="wave_img"></h1>
+
 
 
 **ahmamin1/ahmamin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 
 Here are some ideas to get you started:
 
