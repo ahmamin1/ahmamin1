@@ -1,7 +1,7 @@
 <div class="banner-text" align="center">
   <h1>Hi, I'm Ahmed Amin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width:35px" alt="wave"></h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer+;.NET+Full-stack+Developer+;ITI+Graduate" alt="Typing SVG" /></a>
 </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer+;.NET+Full-stack+Developer+;ITI+Graduate)](https://git.io/typing-svg)
 
 
 ## 🔭 Current Project
