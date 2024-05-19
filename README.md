@@ -1,10 +1,7 @@
 <div class="banner-text" align="center"><h1 style="align:center">Hi , I'm Ahmed Amin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width:35px"alt="wave" class="wave_img"></h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=Senior+Computer+Science+Student+-+Port+said+University++;ACPC+PSU+-+Community+Chairman;Vice+President+-+FSPSUSU;Vice+Ambassador+-+Techne+Drifts;PR+-+PSED+;and+happy+to+see+you+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=.Net+FullStack+Developer;ITI+Graduate)](https://git.io/typing-svg)
 
-
-<h1 align="center">Hi 👋, I'm Ahmed Amin</h1>
-<h3 align="center">.NET Full-stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmamin1&label=Profile%20views&color=0e75b6&style=flat" alt="ahmamin1" /> </p>
 
