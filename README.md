@@ -10,12 +10,6 @@
 ## 📫 Contact
 - How to reach me: **ahmamin11@gmail.com**
 
-## 🏆 Achievements
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmamin1&theme=" alt="ahmamin1" />
-  </a>
-</p>
 
 ## 📱 Connect with Me
 <p align="left">
