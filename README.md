@@ -22,7 +22,7 @@
   <a href="https://fb.com/ahmaminn" target="_blank">
     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/ahmamin" target="_blank">
+  <a href="https://www.hackerrank.com/ahmamin11" target="_blank">
     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="Hackerrank" height="30" width="40" />
   </a>
   <a href="https://discord.gg/ahmamin" target="_blank">
